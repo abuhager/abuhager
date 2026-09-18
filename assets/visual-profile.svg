@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1570" viewBox="0 0 1200 1570" role="img" aria-label="Adham Abu Hager. Full-Stack Developer in Amman, Jordan. Selected work: Aoun donation platform and UniEvents event booking system. Technologies include React, Next.js, Node.js, Express, C#, ASP.NET Core, MongoDB and SQL Server.">
+<defs>
+ <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1020"/><stop offset=".55" stop-color="#141b2d"/><stop offset="1" stop-color="#101c28"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e9d4a1"/><stop offset="1" stop-color="#8fd1cd"/></linearGradient>
+ <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1e293d"/><stop offset="1" stop-color="#162538"/></linearGradient>
+ <pattern id="dots" patternUnits="userSpaceOnUse" width="30" height="30"><circle cx="1" cy="1" r="1" fill="#9cb2ce" opacity=".14"/></pattern>
+ <clipPath id="round"><rect width="1200" height="1570" rx="32"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+ <rect width="1200" height="1570" fill="url(#back)"/>
+ <rect width="1200" height="1570" fill="url(#dots)"/>
+ <circle cx="1010" cy="215" r="280" fill="#6fc9c8" opacity=".06"/>
+ <circle cx="1056" cy="205" r="191" stroke="#d8bf8f" stroke-opacity=".22" fill="none" stroke-width="1.5"/>
+ <circle cx="1056" cy="205" r="152" stroke="#7fc6cc" stroke-opacity=".29" fill="none" stroke-width="1.5"/>
+ <circle cx="1056" cy="205" r="112" stroke="#d8bf8f" stroke-opacity=".41" fill="none" stroke-width="1.5"/>
+ <path d="M1040 94l-67 111 67 111m32-222 67 111-67 111" fill="none" stroke="url(#accent)" stroke-width="4" opacity=".78" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M1045 252l26-95" stroke="#e9d4a1" stroke-width="4" opacity=".78" stroke-linecap="round"/>
+ <rect x="68" y="52" width="54" height="54" rx="15" fill="#e9d4a1"/>
+ <text x="83" y="91" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#111827">A.</text>
+ <text x="138" y="86" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2.5" fill="#eff5f5">ADHAM / DEVELOPER</text>
+ <text x="1135" y="84" text-anchor="end" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#aebfd0">AMMAN, JORDAN</text>
+ <text x="65" y="207" font-family="Arial,sans-serif" font-size="78" font-weight="700" fill="#fcfcfa">Adham Abu</text>
+ <text x="65" y="291" font-family="Arial,sans-serif" font-size="78" font-weight="700" fill="#fcfcfa">Hager<tspan fill="#e9d4a1">.</tspan></text>
+ <rect x="69" y="321" width="70" height="4" rx="2" fill="#e9d4a1"/>
+ <text x="66" y="384" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#9be3da">FULL-STACK DEVELOPER</text>
+ <text x="68" y="428" font-family="Arial,sans-serif" font-size="21" fill="#d4dfeb">From thoughtful interfaces to reliable backends.</text>
+ <line x1="67" y1="468" x2="1131" y2="468" stroke="#506175" stroke-opacity=".72"/>
+ <text x="70" y="507" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#e9d4a1">NEXT.JS + REACT</text>
+ <text x="371" y="507" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#e9d4a1">NODE.JS + EXPRESS</text>
+ <text x="703" y="507" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#e9d4a1">ASP.NET CORE</text>
+ <text x="989" y="507" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#e9d4a1">2026</text>
+ <rect x="54" y="545" width="1092" height="213" rx="23" fill="#1a2839" stroke="#34465a"/>
+ <rect x="75" y="568" width="5" height="167" rx="3" fill="url(#accent)"/>
+ <text x="105" y="601" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#e9d4a1">01 / PROFILE</text>
+ <text x="102" y="653" font-family="Arial,sans-serif" font-size="35" font-weight="700" fill="#f9f9f7">Building products people can use.</text>
+ <text x="103" y="691" font-family="Arial,sans-serif" font-size="20" fill="#cad7e5">Computer Science graduate building and deploying full-stack web applications.</text>
+ <text x="103" y="721" font-family="Arial,sans-serif" font-size="20" fill="#cad7e5">Backend-focused, with hands-on work across APIs, data flows, and user journeys.</text>
+ <text x="69" y="817" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#e9d4a1">02 / SELECTED WORK</text>
+ <text x="67" y="862" font-family="Arial,sans-serif" font-size="39" font-weight="700" fill="#f9f9f7">Built, documented, and ready to explore.</text>
+ <rect x="54" y="890" width="531" height="336" rx="22" fill="url(#card)" stroke="#41605c"/>
+ <rect x="610" y="890" width="536" height="336" rx="22" fill="url(#card)" stroke="#4d5269"/>
+ <rect x="78" y="912" width="80" height="25" rx="12" fill="#1a514b"/>
+ <text x="118" y="930" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#a1f1d9">01 / LIVE</text>
+ <rect x="635" y="912" width="124" height="25" rx="12" fill="#2a3759"/>
+ <text x="697" y="930" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#b9c9fb">02 / PROJECT</text>
+ <text x="79" y="990" font-family="Arial,sans-serif" font-size="44" font-weight="700" fill="#fffdfa">Aoun</text>
+ <text x="634" y="990" font-family="Arial,sans-serif" font-size="44" font-weight="700" fill="#fffdfa">UniEvents</text>
+ <text x="80" y="1032" font-family="Arial,sans-serif" font-size="19" fill="#d6e4ef">Arabic in-kind donation platform</text>
+ <text x="635" y="1032" font-family="Arial,sans-serif" font-size="19" fill="#d6e4ef">University event booking system</text>
+ <line x1="79" y1="1061" x2="548" y2="1061" stroke="#42605a"/>
+ <line x1="634" y1="1061" x2="1109" y2="1061" stroke="#4f5570"/>
+ <text x="80" y="1092" font-family="Arial,sans-serif" font-size="17" fill="#bfd0dc">Donation listings, requests, bookings,</text>
+ <text x="80" y="1119" font-family="Arial,sans-serif" font-size="17" fill="#bfd0dc">waitlists and real-time communication.</text>
+ <text x="635" y="1092" font-family="Arial,sans-serif" font-size="17" fill="#bfd0dc">Capacity-aware booking, FIFO waitlists,</text>
+ <text x="635" y="1119" font-family="Arial,sans-serif" font-size="17" fill="#bfd0dc">tickets, check-in and admin reports.</text>
+ <text x="80" y="1177" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#a0e7d6">NEXT.JS  /  NODE.JS  /  MONGODB</text>
+ <text x="635" y="1177" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#bccdff">C#  /  ASP.NET CORE  /  SQL SERVER</text>
+ <text x="69" y="1289" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#e9d4a1">03 / TECH &amp; BACKGROUND</text>
+ <rect x="55" y="1312" width="1091" height="184" rx="21" fill="#192739" stroke="#34485b"/>
+ <line x1="416" y1="1336" x2="416" y2="1472" stroke="#3d5266"/>
+ <line x1="782" y1="1336" x2="782" y2="1472" stroke="#3d5266"/>
+ <text x="80" y="1355" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#e9d4a1" letter-spacing="2">FRONTEND</text>
+ <text x="80" y="1402" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#f4f6f7">React · Next.js</text>
+ <text x="80" y="1433" font-family="Arial,sans-serif" font-size="18" fill="#c7d6e5">TypeScript · Tailwind CSS</text>
+ <text x="441" y="1355" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#e9d4a1" letter-spacing="2">BACKEND &amp; DATA</text>
+ <text x="441" y="1402" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#f4f6f7">Node.js · ASP.NET Core</text>
+ <text x="441" y="1433" font-family="Arial,sans-serif" font-size="18" fill="#c7d6e5">MongoDB · SQL Server</text>
+ <text x="806" y="1355" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#e9d4a1" letter-spacing="2">EXPERIENCE</text>
+ <text x="806" y="1402" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#f4f6f7">.NET Trainee</text>
+ <text x="806" y="1433" font-family="Arial,sans-serif" font-size="17" fill="#c7d6e5">Quark Software</text>
+ <text x="806" y="1461" font-family="Arial,sans-serif" font-size="15" fill="#9fb2c6">Oct 2025 - Jan 2026</text>
+ <text x="69" y="1542" font-family="Arial,sans-serif" font-size="13" letter-spacing="1.5" fill="#9fb5c7">PORTFOLIO / ADHAMABUHAGERDEV.SITE</text>
+ <text x="1129" y="1542" text-anchor="end" font-family="Arial,sans-serif" font-size="13" letter-spacing="1.5" fill="#9fb5c7">FULL-STACK / AMMAN</text>
+</g>
+</svg>
