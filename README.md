@@ -4,13 +4,12 @@
 
 <br />
 
-**Full-Stack Developer · Backend-focused · Amman, Jordan**
+<p><strong>Full-Stack Developer · Backend-focused · Amman, Jordan</strong></p>
+<p>I build web applications end to end, from the interface and APIs to data workflows and deployment.</p>
 
-I build web applications end to end, from the interface and APIs to data workflows and deployment.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20my%20work-14334A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.adhamabuhagerdev.site/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-137F74?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuhager360@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adham-abuhager/)
+<a href="https://www.adhamabuhagerdev.site/"><img src="https://img.shields.io/badge/Portfolio-See%20my%20work-14334A?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="View my portfolio" /></a>
+<a href="mailto:abuhager360@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-137F74?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
+<a href="https://www.linkedin.com/in/adham-abuhager/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Find me on LinkedIn" /></a>
 
 </div>
 
@@ -50,14 +49,14 @@ An **ASP.NET Core MVC** application for students and administrators. Students ca
 
 <div align="center">
 
-**Frontend**<br />
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS" />
+<p><strong>Frontend</strong><br />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&amp;theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS" /></p>
 
-**Backend & data**<br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,mongodb,redis&theme=dark" alt="Node.js, Express, C sharp, .NET, MongoDB, Redis" />
+<p><strong>Backend &amp; data</strong><br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,mongodb,redis&amp;theme=dark" alt="Node.js, Express, C sharp, .NET, MongoDB, Redis" /></p>
 
-**Workflow**<br />
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" alt="Git, GitHub, Postman, Vercel" />
+<p><strong>Workflow</strong><br />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel&amp;theme=dark" alt="Git, GitHub, Postman, Vercel" /></p>
 
 </div>
 
@@ -68,10 +67,8 @@ Other technologies used across my projects: **SQL Server · Entity Framework Cor
 **Software Development Trainee (.NET)** · Quark Software · Oct 2025 – Jan 2026  
 **B.Sc. in Computer Science** · Al-Zaytoonah University of Jordan · 2022 – 2026
 
-<div align="center">
-
 ---
 
-**Want to see more?** [Visit my portfolio](https://www.adhamabuhagerdev.site/) · [Explore my repositories](https://github.com/abuhager?tab=repositories) · [Email me](mailto:abuhager360@gmail.com)
-
+<div align="center">
+<p><strong>Want to see more?</strong> <a href="https://www.adhamabuhagerdev.site/">Visit my portfolio</a> · <a href="https://github.com/abuhager?tab=repositories">Explore my repositories</a> · <a href="mailto:abuhager360@gmail.com">Email me</a></p>
 </div>
