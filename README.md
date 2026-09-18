@@ -2,72 +2,73 @@
 
 <img src="./assets/header.svg" alt="Adham Abu Hager — Full-Stack Developer" width="100%" />
 
-<br />
+### Full-Stack Developer · Amman, Jordan
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20website-1b3346?style=for-the-badge&logo=vercel&logoColor=white)](https://www.adhamabuhagerdev.site/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adham-abuhager/)
-[![Email](https://img.shields.io/badge/EMAIL-Say%20hello-168b79?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuhager360@gmail.com)
+Building and deploying web applications with React / Next.js, Node.js / Express, and ASP.NET Core.
 
-**Full-Stack Developer** · Backend-leaning · Amman, Jordan
-
-</div>
-
-<br />
-
-### ✦ About me
-
-I’m a Computer Science graduate who builds and deploys end-to-end web applications. I enjoy designing reliable APIs, solving data-integrity problems, and turning complex workflows into straightforward user experiences.
-
-### ✦ Tech stack
-
-<div align="center">
-
-**Frontend**<br />
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS" />
-
-**Backend & data**<br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,mongodb,redis&theme=dark" alt="Node.js, Express, C sharp, .NET, MongoDB, Redis" />
-
-**Tools**<br />
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" alt="Git, GitHub, Postman, Vercel" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-16324F?style=for-the-badge&logo=vercel&logoColor=white)](https://www.adhamabuhagerdev.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adham-abuhager/)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-168B79?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuhager360@gmail.com)
 
 </div>
 
-### ✦ Featured work
+## About
+
+I'm a Computer Science graduate and Full-Stack Developer with hands-on experience building and deploying web applications. My work includes an Arabic donation-coordination platform and a university event-booking system. I enjoy backend development, API design, data integrity, and building clear user workflows.
+
+## Featured projects
 
 <table>
 <tr><td width="50%" valign="top">
 
-#### 🤝 [Aoun — Donation Platform](https://www.aoun.website/)
+### [Aoun · In-kind Donation Platform](https://www.aoun.website/)
 
-Arabic platform for coordinating in-kind donations, bookings, safe handovers, and real-time communication across different user roles.
+**Deployed full-stack MVP** for coordinating in-kind donations in Arabic. Supports item listings, needs requests, bookings and waitlists, safe-hub handovers, role-based workflows, and real-time chat.
 
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-165C3B?style=flat-square&logo=mongodb&logoColor=white)
+**Built with:** Next.js, React, TypeScript, Node.js, Express, MongoDB, Redis, Socket.IO.
 
-[↗ Live app](https://www.aoun.website/) · [Frontend](https://github.com/abuhager/Aoun-Project_FrontEnd) · [Backend](https://github.com/abuhager/Aoun-Project_BackEnd)
+[Live application](https://www.aoun.website/) · [Frontend source](https://github.com/abuhager/Aoun-Project_FrontEnd) · [Backend source](https://github.com/abuhager/Aoun-Project_BackEnd)
 
 </td><td width="50%" valign="top">
 
-#### 🎟️ [UniEvents — Event Booking](https://github.com/abuhager/privateevent)
+### [UniEvents · University Event Booking](https://github.com/abuhager/privateevent)
 
-University event management system with student/admin flows, capacity-aware booking, waitlists, and attendance verification.
+**ASP.NET Core MVC application** for student and administrator event workflows. Includes capacity-aware bookings, FIFO waitlist promotion, ticket verification, attendance tracking, and Excel exports.
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+**Built with:** C#, ASP.NET Core MVC, Razor, Entity Framework Core, SQL Server.
 
-[↗ Explore project](https://github.com/abuhager/privateevent)
+[Source code and project walkthrough](https://github.com/abuhager/privateevent)
 
 </td></tr>
 </table>
 
-### ✦ Experience
+## Technical skills
 
-**Software Development Trainee (.NET)** · Quark Software · Oct 2025 – Jan 2026  
-**B.Sc. Computer Science** · Al-Zaytoonah University of Jordan · 2022 – 2026
+<div align="center">
+
+**Frontend**<br />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS" />
+
+**Backend & databases**<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,mongodb,redis&theme=dark" alt="Node.js, Express, C sharp, .NET, MongoDB, Redis" />
+
+**Developer tools**<br />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" alt="Git, GitHub, Postman, Vercel" />
+
+</div>
+
+Additional experience: **SQL Server · Entity Framework Core · Mongoose · REST APIs · Socket.IO · Playwright · GitHub Actions · Render**.
+
+## Experience & education
+
+**Software Development Trainee (.NET)** — Quark Software · Oct 2025–Jan 2026  
+**B.Sc. in Computer Science** — Al-Zaytoonah University of Jordan · 2022–2026
 
 ---
 
 <div align="center">
 
-**Interested in working together?** [Explore my portfolio](https://www.adhamabuhagerdev.site/) · [Get in touch](mailto:abuhager360@gmail.com)
+**Explore the code above, or see more of my work on my [portfolio](https://www.adhamabuhagerdev.site/).**  
+For opportunities and collaboration: [abuhager360@gmail.com](mailto:abuhager360@gmail.com)
 
 </div>
