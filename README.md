@@ -1,69 +1,73 @@
 <div align="center">
 
-# Adham Abu Hager
-### Full-Stack Developer · Backend-leaning
+<img src="./assets/header.svg" alt="Adham Abu Hager — Full-Stack Developer" width="100%" />
 
-Building practical web applications with a focus on reliable APIs, thoughtful user experiences, and maintainable code.
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://www.adhamabuhagerdev.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adham-abuhager/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-24292F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuhager360@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20website-1b3346?style=for-the-badge&logo=vercel&logoColor=white)](https://www.adhamabuhagerdev.site/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adham-abuhager/)
+[![Email](https://img.shields.io/badge/EMAIL-Say%20hello-168b79?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuhager360@gmail.com)
 
-📍 Amman, Jordan
+**Full-Stack Developer** · Backend-leaning · Amman, Jordan
 
 </div>
 
----
+<br />
 
-### About me
+### ✦ About me
 
-I'm a Computer Science graduate and Full-Stack Developer who enjoys taking an idea from requirements to a deployed application. My work spans **React / Next.js** frontends and **Node.js / Express** or **ASP.NET Core** backends. I care about authentication, data integrity, testing, and clear user journeys.
+I’m a Computer Science graduate who builds and deploys end-to-end web applications. I enjoy designing reliable APIs, solving data-integrity problems, and turning complex workflows into straightforward user experiences.
 
-### Selected projects
+### ✦ Tech stack
+
+<div align="center">
+
+**Frontend**<br />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS" />
+
+**Backend & data**<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,mongodb,redis&theme=dark" alt="Node.js, Express, C sharp, .NET, MongoDB, Redis" />
+
+**Tools**<br />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" alt="Git, GitHub, Postman, Vercel" />
+
+</div>
+
+### ✦ Featured work
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td width="50%" valign="top">
 
-#### [Aoun — In-kind Donation Platform](https://www.aoun.website/)
+#### 🤝 [Aoun — Donation Platform](https://www.aoun.website/)
 
-An Arabic platform that helps donors and recipients coordinate item donations, bookings, and safe handovers. Includes role-based workflows, real-time communication, and administrative tools.
+Arabic platform for coordinating in-kind donations, bookings, safe handovers, and real-time communication across different user roles.
 
-**Stack:** Next.js · React · TypeScript · Node.js · Express · MongoDB · Socket.IO · Redis
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-165C3B?style=flat-square&logo=mongodb&logoColor=white)
 
-[Live platform](https://www.aoun.website/) · [Frontend code](https://github.com/abuhager/Aoun-Project_FrontEnd) · [Backend code](https://github.com/abuhager/Aoun-Project_BackEnd)
+[↗ Live app](https://www.aoun.website/) · [Frontend](https://github.com/abuhager/Aoun-Project_FrontEnd) · [Backend](https://github.com/abuhager/Aoun-Project_BackEnd)
 
-</td>
-<td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
-#### [UniEvents — Event Booking System](https://github.com/abuhager/privateevent)
+#### 🎟️ [UniEvents — Event Booking](https://github.com/abuhager/privateevent)
 
-A university event management and booking system with student/admin workflows, capacity-aware reservations, waitlists, and attendance verification.
+University event management system with student/admin flows, capacity-aware booking, waitlists, and attendance verification.
 
-**Stack:** C# · ASP.NET Core MVC · SQL Server · Entity Framework Core
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
 
-[Explore the repository](https://github.com/abuhager/privateevent)
+[↗ Explore project](https://github.com/abuhager/privateevent)
 
-</td>
-</tr>
+</td></tr>
 </table>
 
-### Technologies I work with
+### ✦ Experience
 
-**Frontend:** JavaScript · TypeScript · React · Next.js · HTML · CSS · Tailwind CSS  
-**Backend:** Node.js · Express · C# · ASP.NET Core MVC · REST APIs · Socket.IO  
-**Data:** MongoDB · Mongoose · SQL Server · Entity Framework Core · Redis  
-**Workflow:** Git · GitHub · Postman · Playwright · GitHub Actions · Vercel · Render
-
-### Experience & education
-
-- **Software Development Trainee (.NET)** — Quark Software · Oct 2025–Jan 2026
-- **B.Sc. in Computer Science** — Al-Zaytoonah University of Jordan · 2022–2026
+**Software Development Trainee (.NET)** · Quark Software · Oct 2025 – Jan 2026  
+**B.Sc. Computer Science** · Al-Zaytoonah University of Jordan · 2022 – 2026
 
 ---
 
 <div align="center">
 
-**Have a project or opportunity in mind?** [Visit my portfolio](https://www.adhamabuhagerdev.site/) or [send me an email](mailto:abuhager360@gmail.com).
+**Interested in working together?** [Explore my portfolio](https://www.adhamabuhagerdev.site/) · [Get in touch](mailto:abuhager360@gmail.com)
 
 </div>
