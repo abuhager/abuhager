@@ -1,74 +1,77 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Adham Abu Hager — Full-Stack Developer" width="100%" />
+<img src="./assets/header.svg" alt="Adham Abu Hager — Full-Stack Developer; featured projects Aoun and UniEvents" width="100%" />
 
-### Full-Stack Developer · Amman, Jordan
+<br />
 
-Building and deploying web applications with React / Next.js, Node.js / Express, and ASP.NET Core.
+**Full-Stack Developer · Backend-focused · Amman, Jordan**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-16324F?style=for-the-badge&logo=vercel&logoColor=white)](https://www.adhamabuhagerdev.site/)
+I build web applications end to end, from the interface and APIs to data workflows and deployment.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20my%20work-14334A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.adhamabuhagerdev.site/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-137F74?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuhager360@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adham-abuhager/)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-168B79?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuhager360@gmail.com)
 
 </div>
 
-## About
+<br />
 
-I'm a Computer Science graduate and Full-Stack Developer with hands-on experience building and deploying web applications. My work includes an Arabic donation-coordination platform and a university event-booking system. I enjoy backend development, API design, data integrity, and building clear user workflows.
+## Selected work
 
-## Featured projects
+### 01 / [Aoun — In-kind Donation Platform](https://www.aoun.website/)
 
-<table>
-<tr><td width="50%" valign="top">
+**A deployed Arabic-language MVP** that brings donation listings, requests, booking, communication, and handover coordination into one workflow. It has separate experiences for donors, recipients, and administrators.
 
-### [Aoun · In-kind Donation Platform](https://www.aoun.website/)
+<a href="https://www.aoun.website/"><img src="https://raw.githubusercontent.com/abuhager/Aoun-Project_FrontEnd/main/docs/screenshots/hero.webp" alt="Aoun donation platform — homepage screenshot" width="850" /></a>
 
-**Deployed full-stack MVP** for coordinating in-kind donations in Arabic. Supports item listings, needs requests, bookings and waitlists, safe-hub handovers, role-based workflows, and real-time chat.
+**What I built:** Next.js / React frontend; TypeScript / Express API; MongoDB-backed booking and waitlists; Socket.IO messaging. The backend documents transactional updates and Redis-based rate limiting.
 
-**Built with:** Next.js, React, TypeScript, Node.js, Express, MongoDB, Redis, Socket.IO.
+**Stack:** `Next.js` `React` `TypeScript` `Node.js` `Express` `MongoDB` `Redis` `Socket.IO`
 
-[Live application](https://www.aoun.website/) · [Frontend source](https://github.com/abuhager/Aoun-Project_FrontEnd) · [Backend source](https://github.com/abuhager/Aoun-Project_BackEnd)
+[**↗ Try the live MVP**](https://www.aoun.website/) · [Frontend repository](https://github.com/abuhager/Aoun-Project_FrontEnd) · [Backend repository & architecture](https://github.com/abuhager/Aoun-Project_BackEnd)
 
-</td><td width="50%" valign="top">
+---
 
-### [UniEvents · University Event Booking](https://github.com/abuhager/privateevent)
+### 02 / [UniEvents — University Event Booking](https://github.com/abuhager/privateevent)
 
-**ASP.NET Core MVC application** for student and administrator event workflows. Includes capacity-aware bookings, FIFO waitlist promotion, ticket verification, attendance tracking, and Excel exports.
+An **ASP.NET Core MVC** application for students and administrators. Students can reserve event places or join a waiting list; administrators manage events, attendance, tickets, and registration exports.
 
-**Built with:** C#, ASP.NET Core MVC, Razor, Entity Framework Core, SQL Server.
+<a href="https://github.com/abuhager/privateevent"><img src="https://raw.githubusercontent.com/abuhager/privateevent/main/docs/images/student-events.png" alt="UniEvents — student event browsing screenshot from the project's demo dataset" width="850" /></a>
 
-[Source code and project walkthrough](https://github.com/abuhager/privateevent)
+**What I built:** capacity-aware reservations, FIFO waitlist promotion, PDF tickets, attendance check-in, and Excel exports.
 
-</td></tr>
-</table>
+**Stack:** `C#` `ASP.NET Core MVC` `Razor` `Entity Framework Core` `SQL Server`
 
-## Technical skills
+[**↗ View source code, screenshots & walkthrough**](https://github.com/abuhager/privateevent)
+
+---
+
+## Technologies
 
 <div align="center">
 
 **Frontend**<br />
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS" />
 
-**Backend & databases**<br />
+**Backend & data**<br />
 <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,mongodb,redis&theme=dark" alt="Node.js, Express, C sharp, .NET, MongoDB, Redis" />
 
-**Developer tools**<br />
+**Workflow**<br />
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" alt="Git, GitHub, Postman, Vercel" />
 
 </div>
 
-Additional experience: **SQL Server · Entity Framework Core · Mongoose · REST APIs · Socket.IO · Playwright · GitHub Actions · Render**.
+Other technologies used across my projects: **SQL Server · Entity Framework Core · Mongoose · REST APIs · Socket.IO · Playwright · GitHub Actions · Render**.
 
-## Experience & education
+## Background
 
-**Software Development Trainee (.NET)** — Quark Software · Oct 2025–Jan 2026  
-**B.Sc. in Computer Science** — Al-Zaytoonah University of Jordan · 2022–2026
-
----
+**Software Development Trainee (.NET)** · Quark Software · Oct 2025 – Jan 2026  
+**B.Sc. in Computer Science** · Al-Zaytoonah University of Jordan · 2022 – 2026
 
 <div align="center">
 
-**Explore the code above, or see more of my work on my [portfolio](https://www.adhamabuhagerdev.site/).**  
-For opportunities and collaboration: [abuhager360@gmail.com](mailto:abuhager360@gmail.com)
+---
+
+**Want to see more?** [Visit my portfolio](https://www.adhamabuhagerdev.site/) · [Explore my repositories](https://github.com/abuhager?tab=repositories) · [Email me](mailto:abuhager360@gmail.com)
 
 </div>
