@@ -2,6 +2,8 @@
 
 <img src="./assets/header.svg" width="100%" alt="Adham Abu Hager — Full-Stack Developer" />
 
+<a href="https://www.adhamabuhagerdev.site/"><img src="https://raw.githubusercontent.com/abuhager/my-portfolio/main/public/brand/ah-mark.webp" width="154" alt="Adham Abu Hager's original AH monogram logo" /></a>
+
 **Full-Stack Developer · Backend-focused · Amman, Jordan**
 
 <a href="https://www.adhamabuhagerdev.site/"><img src="https://img.shields.io/badge/Portfolio-See%20my%20work-173D3B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
