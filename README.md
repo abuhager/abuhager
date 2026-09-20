@@ -1,16 +1,22 @@
-<div align="center">
-
-<img src="./assets/header.svg" width="100%" alt="Adham Abu Hager — Full-Stack Developer" />
-
-<a href="https://www.adhamabuhagerdev.site/"><img src="https://raw.githubusercontent.com/abuhager/my-portfolio/main/public/brand/ah-mark.webp" width="154" alt="Adham Abu Hager's original AH monogram logo" /></a>
-
-**Full-Stack Developer · Backend-focused · Amman, Jordan**
-
-<a href="https://www.adhamabuhagerdev.site/"><img src="https://img.shields.io/badge/Portfolio-See%20my%20work-173D3B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/adham-abuhager/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abuhager360@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-B79A61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
+<table>
+  <tr>
+    <td width="170" align="center" valign="middle">
+      <a href="https://www.adhamabuhagerdev.site/" title="Visit Adham's portfolio">
+        <img src="https://raw.githubusercontent.com/abuhager/my-portfolio/main/public/brand/ah-mark.webp" width="154" alt="AH monogram — Adham Abu Hager" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h1>Adham Abu Hager</h1>
+      <p><strong>Full-Stack Developer</strong> · Backend-focused · Amman, Jordan</p>
+      <p>Building reliable, user-focused web applications, from interface to infrastructure.</p>
+      <p>
+        <a href="https://www.adhamabuhagerdev.site/">Portfolio ↗</a> &nbsp;·&nbsp;
+        <a href="https://www.linkedin.com/in/adham-abuhager/">LinkedIn ↗</a> &nbsp;·&nbsp;
+        <a href="mailto:abuhager360@gmail.com">Email ↗</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## What I work with
 
