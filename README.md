@@ -1,8 +1,11 @@
 <table>
   <tr>
-    <td width="170" align="center" valign="middle">
+    <td width="150" align="center" valign="middle">
       <a href="https://www.adhamabuhagerdev.site/" title="Visit Adham's portfolio">
-        <img src="https://raw.githubusercontent.com/abuhager/my-portfolio/main/public/brand/ah-mark.webp" width="154" alt="AH monogram — Adham Abu Hager" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abuhager/my-portfolio/main/public/brand/ah-logo-light.svg" />
+          <img src="https://raw.githubusercontent.com/abuhager/my-portfolio/main/public/brand/ah-logo-dark.svg" width="138" alt="AH monogram — Adham Abu Hager" />
+        </picture>
       </a>
     </td>
     <td valign="middle">
