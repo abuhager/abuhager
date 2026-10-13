@@ -21,6 +21,12 @@
   </tr>
 </table>
 
+## How I approach projects
+
+- Model complete workflows, including booking states, waitlists, handover, and administrative actions.
+- Build API boundaries with authentication, authorization, validation, and data consistency in mind.
+- Use TypeScript checks, automated tests, Playwright, and CI to verify the behavior covered by each project.
+
 ## What I work with
 
 <div align="center">
@@ -55,6 +61,12 @@ A deployed Arabic-language MVP that coordinates in-kind donation listings, need 
 An ASP.NET Core MVC application with capacity-aware reservations, FIFO waitlists, PDF tickets, attendance check-in, and Excel exports. **Stack:** C#, ASP.NET Core MVC, Razor, Entity Framework Core, SQL Server.
 
 [Source code and project walkthrough](https://github.com/abuhager/privateevent)
+
+## [Developer portfolio](https://www.adhamabuhagerdev.site/)
+
+<a href="https://www.adhamabuhagerdev.site/"><img src="https://raw.githubusercontent.com/abuhager/my-portfolio/main/docs/screenshots/desktop.webp" alt="Adham Abu Hager developer portfolio with project case studies and section navigation" width="100%" /></a>
+
+Explore the project case studies, implementation decisions, background, downloadable CV, and contact links. The projects above show original application interfaces; demo records are sample data.
 
 ---
 
