@@ -32,7 +32,7 @@
 <div align="center">
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=js,ts,nextjs,angular,tailwind,html,css&theme=dark" alt="JavaScript, TypeScript, Next.js, Angular, Tailwind CSS, HTML, CSS" />
 
 **Backend & data**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,mongodb,redis&theme=dark" alt="Node.js, Express, C sharp, ASP.NET Core, MongoDB, Redis" />
@@ -42,7 +42,7 @@
 
 </div>
 
-Also used: **SQL Server · Entity Framework Core · Mongoose · Socket.IO · Playwright · GitHub Actions · Render**.
+Foundations: **C# · OOP · .NET Framework**. Also used: **SQL Server · Entity Framework Core · Mongoose · Socket.IO · Playwright · GitHub Actions · Render**.
 
 ## Selected projects
 
@@ -62,6 +62,30 @@ An ASP.NET Core MVC application with capacity-aware reservations, FIFO waitlists
 
 [Source code and project walkthrough](https://github.com/abuhager/privateevent)
 
+### [HelpDesk SaaS — Support Ticket Management](https://helpdesk-abuhager.onrender.com)
+
+<a href="https://helpdesk-abuhager.onrender.com"><img src="https://raw.githubusercontent.com/abuhager/my-portfolio/main/public/projects/helpdesk-dashboard.webp" alt="HelpDesk Arabic dashboard with sample ticket priorities and support queue" width="100%" /></a>
+
+A bilingual, multi-tenant support platform with company-scoped roles, ticket assignment, comments, attachments, reporting, and configurable SLA policies. **Stack:** Angular 21, TypeScript, ASP.NET Core 10, C#, Entity Framework Core, SQL Server.
+
+[Open demo](https://helpdesk-abuhager.onrender.com) · Source repository is private. Screenshot uses sample API responses.
+
+### [Khutwa Quran — Guided Learning](https://khutwa-nine.vercel.app/demo)
+
+<a href="https://khutwa-nine.vercel.app/demo"><img src="https://raw.githubusercontent.com/abuhager/my-portfolio/main/public/projects/khutwa-desktop.webp" alt="Khutwa Arabic learning journey and learner progress" width="100%" /></a>
+
+An Arabic learning prototype with short lesson journeys, server-side assessments, progressive unlocking, scheduled review, content administration, and offline practice. **Stack:** Next.js 16, TypeScript, ASP.NET Core 10, C#, MongoDB, IndexedDB, Service Worker.
+
+[Try the learning demo](https://khutwa-nine.vercel.app/demo) · Source repository is private. The curriculum remains under preparation and review.
+
+### [Don’t Control Yourself — Cooperative Browser Game](https://dont-control-yourself-v80.freshglade128.chatgpt.site)
+
+<a href="https://dont-control-yourself-v80.freshglade128.chatgpt.site"><img src="https://raw.githubusercontent.com/abuhager/my-portfolio/main/public/projects/dont-control-yourself.webp" alt="Arabic cooperative gameplay with rope companions and a shared puzzle challenge" width="100%" /></a>
+
+A playable platforming and puzzle prototype for **2–4 players**: move your character, jump for your teammate, and cooperate through rope rescue, checkpoints, and team-size-adapted challenges. **Stack:** Next.js, TypeScript, JavaScript, Canvas 2D, WebRTC, Node.js.
+
+[Play in the browser](https://dont-control-yourself-v80.freshglade128.chatgpt.site) · Source repository is private. Gameplay image shows an earlier campaign build. Online connectivity depends on network and TURN configuration.
+
 ## [Developer portfolio](https://www.adhamabuhagerdev.site/)
 
 <a href="https://www.adhamabuhagerdev.site/"><img src="https://raw.githubusercontent.com/abuhager/my-portfolio/main/docs/screenshots/desktop.webp" alt="Adham Abu Hager developer portfolio with project case studies and section navigation" width="100%" /></a>
@@ -71,6 +95,7 @@ Explore the project case studies, implementation decisions, background, download
 ---
 
 **Experience:** Software Development Trainee (.NET), Quark Software · Oct 2025–Jan 2026  
+**Training:** Full-Stack Web Development (MERN), DOT Jordan · Jan–Apr 2026  
 **Education:** B.Sc. Computer Science, Al-Zaytoonah University of Jordan · 2022–2026
 
 <div align="center">
