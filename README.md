@@ -78,14 +78,6 @@ An Arabic learning prototype with short lesson journeys, server-side assessments
 
 [Try the learning demo](https://khutwa-nine.vercel.app/demo) · Source repository is private. The curriculum remains under preparation and review.
 
-### [Don’t Control Yourself — Cooperative Browser Game](https://dont-control-yourself-v80.freshglade128.chatgpt.site)
-
-<a href="https://dont-control-yourself-v80.freshglade128.chatgpt.site"><img src="https://raw.githubusercontent.com/abuhager/my-portfolio/main/public/projects/dont-control-yourself.webp" alt="Arabic cooperative gameplay with rope companions and a shared puzzle challenge" width="100%" /></a>
-
-A playable platforming and puzzle prototype for **2–4 players**: move your character, jump for your teammate, and cooperate through rope rescue, checkpoints, and team-size-adapted challenges. **Stack:** Next.js, TypeScript, JavaScript, Canvas 2D, WebRTC, Node.js.
-
-[Play in the browser](https://dont-control-yourself-v80.freshglade128.chatgpt.site) · Source repository is private. Gameplay image shows an earlier campaign build. Online connectivity depends on network and TURN configuration.
-
 ## [Developer portfolio](https://www.adhamabuhagerdev.site/)
 
 <a href="https://www.adhamabuhagerdev.site/"><img src="https://raw.githubusercontent.com/abuhager/my-portfolio/main/docs/screenshots/desktop.webp" alt="Adham Abu Hager developer portfolio with project case studies and section navigation" width="100%" /></a>
